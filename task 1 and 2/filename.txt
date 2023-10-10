@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+// This is a multi-line comment
+ 
+
+void dummy();
+
+// main function is the entry point.
+int main(void) {
+     
+     // Here we print a message on user's 
+      console.
+     
+    printf("Hello world\n");
+    // That is it.
+}
